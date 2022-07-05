@@ -1,2 +1,2 @@
 # odinlandingpage
-Hello Odin!
+Recreating odin project landing page from fundamentals course
